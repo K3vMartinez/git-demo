@@ -12,8 +12,6 @@
 ## Listas ordenadas
 1. Uno
 2. Dos
-    2.a. DOS A
-    2.b. DOS B
 3. Trez
 
 
