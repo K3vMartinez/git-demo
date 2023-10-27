@@ -1,6 +1,6 @@
 # Hola mundo cruel
 
-Si quieres ver un ejemplo de markdown pulsa [aquí](/git-demo/markdown-demo.md)
+Si quieres ver un ejemplo de markdown pulsa [aquí](./markdown-demo.md)
 
 ![avatar](./img/avatar.jpg)
 <img src="./img/avatar.jpg" width="200px"/>
